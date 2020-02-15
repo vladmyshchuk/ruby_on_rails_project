@@ -15,3 +15,5 @@ In this project I will create a simple blog system and learn the basics of Ruby 
 * RESTful design
 
 * Adding gems for extra features
+
+The app can be found at https://pure-peak-52378.herokuapp.com/
