@@ -25,6 +25,9 @@ gem 'jbuilder', '~> 2.7'
 # Use a library that manages file attachments and upload
 gem "paperclip"
 
+# Use a lightweight and straightforward authentication service gem
+gem "sorcery"
+
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
